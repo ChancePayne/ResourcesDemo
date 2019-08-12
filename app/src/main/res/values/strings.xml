@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ResourcesDemo</string>
+    <string name="user_name">User Name</string>
+    <string name="demo_text_cd">Base View to communicate info</string>
+</resources>
